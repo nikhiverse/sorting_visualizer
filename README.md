@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# sorting2.0
-=======
 # Sorting Visualizer
 
 A web-based sorting algorithm visualizer that demonstrates various sorting algorithms in real-time. This project uses C++ backend compiled to WebAssembly (WASM) for efficient sorting operations, coupled with a Vanilla JavaScript frontend to render the step-by-step visualization.
